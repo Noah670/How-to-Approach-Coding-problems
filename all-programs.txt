@@ -1,0 +1,86 @@
+// Basic way how all programs work in 3 simple steps and the entire process of writing code
+// Explain how a complex list of requirments can be broken down into managable steps 
+// Noah Pohl 2020
+
+// 1.) Input
+
+// collect some input
+- ask
+- enter
+- get
+- retrieve
+- read
+- given
+- etc
+
+
+
+// 2.) Processing
+
+// process that output in some way
+- calculate
+- parse
+- find
+- determine
+- process
+- convert 
+- etc
+
+// 3.) Output
+
+// print or display the results
+- display
+- print
+- output
+- show
+- provide
+- etc
+
+
+Other keywords typically used in the processing section
+
+// Extra IF / ELSE structure
+- if
+- determine if
+- in the case/ condition
+- otherwise
+- instead
+- however
+
+// LOOPS
+- continue
+- while
+- until 
+- for each
+
+
+// Addition
+- add
+- sum
+- total
+- more
+- combined
+
+
+// Subtraction
+- subtract
+- difference
+- less
+- under
+
+
+// Multiplication
+- multiply
+- product
+- times
+
+
+// Division
+- divide 
+- quotient
+- out of
+- fractions
+- over
+
+
+// Happy coding!
