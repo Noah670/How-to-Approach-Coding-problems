@@ -8,10 +8,13 @@ Writing out code to solve a specfiic problems in the right order just like a rec
 That order is typically:
 
 1.) Input
+// The keyboard, mouse, touchscreen, file, microphone, light, etc...
 
 2.) Processing
+// calculate, translate, parse,
 
 3.) Output
+Output to a screen, print, play a sound, to a file, etc...
 
 
-Almost every single program in existence has the same main steps at a higher level.
+Almost every single program in existence has the same main steps at a higher level and you can apply this to any set of requirments you are given.
