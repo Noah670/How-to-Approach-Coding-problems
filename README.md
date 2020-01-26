@@ -7,13 +7,13 @@ Writing out code to solve a specfiic problems in the right order just like a rec
 
 That order is typically:
 
-##1.) Input
+#1.) Input
 // The keyboard, mouse, touchscreen, file, microphone, light, etc...
 
-##2.) Processing
+#2.) Processing
 // calculate, translate, parse,
 
-##3.) Output
+#3.) Output
 Output to a screen, print, play a sound, to a file, etc...
 
 
